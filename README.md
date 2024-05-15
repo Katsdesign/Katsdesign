@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi there I'm Katrina Stenger
+- 👀 I'm interested in crocheting, painting, plants, and many more~ 
+bee
 
 <!--
 **Katsdesign/Katsdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
