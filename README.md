@@ -1,6 +1,7 @@
 ### 👋 Hi there I'm Katrina Stenger
 - 👀 I'm interested in crocheting, painting, plants, and many more~ 
-bee
+- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- ⚡ Graduated from East Stroudsburg University with a Graphic and Product Design Degree 
 
 <!--
 **Katsdesign/Katsdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
